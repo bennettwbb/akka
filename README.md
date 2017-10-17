@@ -1,3 +1,5 @@
+[![](https://codescene.io/projects/1794/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/1794/jobs/latest-successful/results)
+
 Akka
 ====
 
